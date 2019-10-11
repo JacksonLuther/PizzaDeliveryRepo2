@@ -1,3 +1,10 @@
 Decide where to order from
 Look for coupons
 Decide what pizza to get
+say "hey alexa"
+    "order my favorite pizza"
+track online
+wait
+take the pizza
+sign receipt
+eat
