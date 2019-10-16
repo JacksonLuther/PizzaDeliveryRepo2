@@ -3,11 +3,11 @@ look in yellow pages for pizza
 Decide where to order from
 say "hey alexa"
     "order my favorite pizza"
+    "add tip"
 track online
 wait
 open door
 take the pizza
 sign receipt
-tip the driver
 find plates
 eat
